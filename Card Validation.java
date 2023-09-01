@@ -1,4 +1,4 @@
-package org.loopExcercise;
+package mini_project;
 import java.util.Scanner;
 
 public class CardVal10 {
